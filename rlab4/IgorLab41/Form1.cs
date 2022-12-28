@@ -1,4 +1,5 @@
-﻿using System;
+﻿using IgorLab41;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -28,6 +29,8 @@ namespace RLAB4
             Class1.y0 = y0;
             Form2 newForm = new Form2();
             newForm.Show();
+            Form3 form = new Form3();
+            form.Show();
         }
     }
 }

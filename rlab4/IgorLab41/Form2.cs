@@ -45,5 +45,9 @@ namespace RLAB4
             g.DrawEllipse(Pens.Black, x0 + x0/2, y0 + y0/2, 1, 1);
             
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+        }
     }
 }
