@@ -1,0 +1,12 @@
+C:\Users\timur\source\repos\IgorLab41\IgorLab41\bin\Debug\IgorLab41.exe.config
+C:\Users\timur\source\repos\IgorLab41\IgorLab41\bin\Debug\IgorLab41.exe
+C:\Users\timur\source\repos\IgorLab41\IgorLab41\bin\Debug\IgorLab41.pdb
+C:\Users\timur\source\repos\IgorLab41\IgorLab41\obj\Debug\IgorLab41.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\IgorLab41\IgorLab41\obj\Debug\IgorLab41.csproj.SuggestedBindingRedirects.cache
+C:\Users\timur\source\repos\IgorLab41\IgorLab41\obj\Debug\IgorLab41.Form1.resources
+C:\Users\timur\source\repos\IgorLab41\IgorLab41\obj\Debug\IgorLab41.Form2.resources
+C:\Users\timur\source\repos\IgorLab41\IgorLab41\obj\Debug\IgorLab41.Properties.Resources.resources
+C:\Users\timur\source\repos\IgorLab41\IgorLab41\obj\Debug\IgorLab41.csproj.GenerateResource.cache
+C:\Users\timur\source\repos\IgorLab41\IgorLab41\obj\Debug\IgorLab41.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\IgorLab41\IgorLab41\obj\Debug\IgorLab41.exe
+C:\Users\timur\source\repos\IgorLab41\IgorLab41\obj\Debug\IgorLab41.pdb
