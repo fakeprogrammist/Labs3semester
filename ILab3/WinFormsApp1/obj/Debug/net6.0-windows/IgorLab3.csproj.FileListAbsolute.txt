@@ -1,0 +1,17 @@
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\bin\Debug\net6.0-windows\IgorLab3.exe
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\bin\Debug\net6.0-windows\IgorLab3.deps.json
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\bin\Debug\net6.0-windows\IgorLab3.runtimeconfig.json
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\bin\Debug\net6.0-windows\IgorLab3.dll
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\bin\Debug\net6.0-windows\IgorLab3.pdb
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\obj\Debug\net6.0-windows\IgorLab3.csproj.AssemblyReference.cache
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\obj\Debug\net6.0-windows\IgorLab3.csproj.GenerateResource.cache
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\obj\Debug\net6.0-windows\IgorLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\obj\Debug\net6.0-windows\IgorLab3.AssemblyInfoInputs.cache
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\obj\Debug\net6.0-windows\IgorLab3.AssemblyInfo.cs
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\obj\Debug\net6.0-windows\IgorLab3.csproj.CoreCompileInputs.cache
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\obj\Debug\net6.0-windows\IgorLab3.dll
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\obj\Debug\net6.0-windows\refint\IgorLab3.dll
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\obj\Debug\net6.0-windows\IgorLab3.pdb
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\obj\Debug\net6.0-windows\IgorLab3.genruntimeconfig.cache
+C:\Users\timur\Desktop\Labs3semester\ILab3\WinFormsApp1\obj\Debug\net6.0-windows\ref\IgorLab3.dll

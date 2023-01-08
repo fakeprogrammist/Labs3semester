@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\timur\\.nuget\\packages\\": {}
+    "C:\\Users\\timur\\.nuget\\packages\\": {},
+    "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timur\\source\\repos\\WinFormsApp1\\WinFormsApp1\\IgorLab3.csproj",
+      "projectUniqueName": "C:\\Users\\timur\\Desktop\\Labs3semester\\ILab3\\WinFormsApp1\\IgorLab3.csproj",
       "projectName": "IgorLab3",
-      "projectPath": "C:\\Users\\timur\\source\\repos\\WinFormsApp1\\WinFormsApp1\\IgorLab3.csproj",
+      "projectPath": "C:\\Users\\timur\\Desktop\\Labs3semester\\ILab3\\WinFormsApp1\\IgorLab3.csproj",
       "packagesPath": "C:\\Users\\timur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timur\\source\\repos\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\timur\\Desktop\\Labs3semester\\ILab3\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\timur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
