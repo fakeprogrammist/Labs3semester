@@ -1,0 +1,12 @@
+C:\Users\timur\source\repos\FLab4\FLab4\bin\Debug\FLab4.exe.config
+C:\Users\timur\source\repos\FLab4\FLab4\bin\Debug\FLab4.exe
+C:\Users\timur\source\repos\FLab4\FLab4\bin\Debug\FLab4.pdb
+C:\Users\timur\source\repos\FLab4\FLab4\obj\Debug\FLab4.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\FLab4\FLab4\obj\Debug\FLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\timur\source\repos\FLab4\FLab4\obj\Debug\FLab4.Form1.resources
+C:\Users\timur\source\repos\FLab4\FLab4\obj\Debug\FLab4.Form2.resources
+C:\Users\timur\source\repos\FLab4\FLab4\obj\Debug\FLab4.Properties.Resources.resources
+C:\Users\timur\source\repos\FLab4\FLab4\obj\Debug\FLab4.csproj.GenerateResource.cache
+C:\Users\timur\source\repos\FLab4\FLab4\obj\Debug\FLab4.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\FLab4\FLab4\obj\Debug\FLab4.exe
+C:\Users\timur\source\repos\FLab4\FLab4\obj\Debug\FLab4.pdb
